@@ -228,4 +228,12 @@ background-color: rgb(62, 62, 62);
     align-items: center;
     justify-content: center;
 }
+@media (min-width:600px){
+    header{
+        flex-direction: row;
+        padding: 0px 30px;
+        justify-content: space-between;
+        }
+    }
+    
 
