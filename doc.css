@@ -23,7 +23,7 @@ body{
 
 }
 .header{
-    background-color: rgb(39, 47, 45);
+    background-color: transparent;
 }
 .nav{
     display:flex;
